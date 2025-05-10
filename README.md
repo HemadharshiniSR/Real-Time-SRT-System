@@ -35,7 +35,7 @@ pipwin install pyaudio
 Clone the repository:
 
 
-git clone https://github.com/yourusername/customer-support-voicebot.git
+git clone https://github.com/hemadharshini/customer-support-voicebot.git
 cd customer-support-voicebot
 Run the Python script:
 
